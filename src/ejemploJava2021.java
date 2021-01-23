@@ -16,7 +16,7 @@ public class ejemploJava2021 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Hola -Gaspar Hernández Cebrián-");
+        System.out.println("Hola soy Gaspar Hernández Cebrián y estoy cursando primero de DAM");
         
     }
     
